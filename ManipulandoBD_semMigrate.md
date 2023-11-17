@@ -1,5 +1,12 @@
 # Como manipular banco de dados sem utilizar a migrate do laravel.(APENAS ORM)
 
+- [Definindo um model](introduction)
+- [Interagindo com dados](introduction)
+- - [Buscando registros](introduction)
+  - - [Buscando registros por id](introduction)
+- [Deletando registros](introduction)
+
+
 ### Usando Modelos com Dados Preexistentes no Banco de Dados
 
 #### 1. Definindo o Model
