@@ -63,6 +63,7 @@ CONTROLLERS:
     }
 
  - Você também pode indicar no header que a resposta esperada é apenas um json (no simulado ele esperava respostas json em casos de erros);
+ - Header: Accept application/json
  - Precisamos dai tirar o modo de debug no arquivo .env -> APP_DEBUG = false
 
 
